@@ -1,0 +1,42 @@
+[
+  {
+    "rating": "4.5",
+    "author": "Chinua Achebe",
+    "imageLink": "assets/booksimg/1.jpg",
+    "bookslist": "assets/bookslist/1.jpg",
+    "title": "Things Fall Apart",
+    "year": "1958"
+  },
+  {
+    "rating": "4.5",
+    "author": "Samuel Beckett",
+    "imageLink": "assets/booksimg/2.jpg",
+    "bookslist": "assets/bookslist/2.jpg",
+    "title": "Things Fall Apart",
+    "year": "1958"
+  },
+  {
+    "rating": "4.5",
+    "author": "Jane Austen",
+    "imageLink": "assets/booksimg/3.jpg",
+    "bookslist": "assets/bookslist/3.jpg",
+    "title": "Things Fall Apart",
+    "year": "1958"
+  },
+  {
+    "rating": "4.5",
+    "author": "Dante Alighieri",
+    "imageLink": "assets/booksimg/4.jpg",
+    "bookslist": "assets/bookslist/4.jpg",
+    "title": "Things Fall Apart",
+    "year": "1958"
+  },
+  {
+    "rating": "4.5",
+    "author": "Hans Christian Andersen",
+    "imageLink": "assets/booksimg/5.jpg",
+    "bookslist": "assets/bookslist/5.jpg",
+    "title": "Things Fall Apart",
+    "year": "1958"
+  }
+]
